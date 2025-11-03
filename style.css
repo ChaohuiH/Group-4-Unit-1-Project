@@ -1,7 +1,15 @@
 body {
-  
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 80px;
+  background-color: azure;
 }
 
-.time-display
+button {
+  font-size: 20px;
+  margin: 5px;
+}
 
-.buttons
+#time-display {
+  font-size:40px;
+  margin:20px;
+}
