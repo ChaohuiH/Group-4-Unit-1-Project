@@ -1,6 +1,6 @@
 # Group-4-Unit-1-Project
 
-A basic countdown timer web built with HTML, CSS, and Javascript. It starts from 30 minutes and lets you start, pause, and reset the timer.
+A basic countdown timer web app built with HTML, CSS, and Javascript. It starts from 30 minutes and lets you start, pause, and reset the timer.
 
 How to use it?
 Open the index.html file in your web browser.
